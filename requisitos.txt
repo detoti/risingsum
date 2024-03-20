@@ -1,0 +1,10 @@
+Requisitos:
+
+1- O sistema deve permitir que o jogador tente adivinhar número escolhido pelo computador.
+2- O sistema deve permitir que o computador escolha um número aleatório entre 1 e 20 como o alvo.
+3- Após cada palpite do jogador, o sistema deve informar se a tentativa está correta ou não.
+4- Se a tentativa estiver correta, o jogo deve encerrar com a vitória do jogador.
+5- Se a tentativa estiver incorreta, o computador deve escolher um novo número aleatório entre 1 e 20, esse número será somado ao anterior e esse será o novo alvo.
+6- O sistema deve continuar o jogo até que o usuário acerte o alvo ou até que o alvo ultrapasse 100.
+7- Se o alvo ultrapassar 100 vitória do computador.
+8- Após cada jogada, o jogador pode tentar novamente ou sair do jogo.
